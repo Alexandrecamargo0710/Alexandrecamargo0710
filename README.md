@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:004e92,50:000428,100:004e92&height=220&section=header&text=Alexandre%20Camargo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Estudante%20de%20ADS&descFontSize=20&descAlignY=60" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Estudante+de+An%C3%A1lise+e+Desenv.+de+Sistemas;Desenvolvedor+.NET+%7C+C%23+%7C+Python+%7C+JS;Focado+em+evolu%C3%A7%C3%A3o+constante+e+boas+pr%C3%A1ticas;Buscando+sempre+criar+solu%C3%A7%C3%B5es+de+impacto" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenv.+de+Sistemas;Desenvolvedor+.NET+%7C+C%23+%7C+Python+%7C+React;Focado+em+evolu%C3%A7%C3%A3o+constante+e+boas+pr%C3%A1ticas;Criando+solu%C3%A7%C3%B5es+modernas+e+de+impacto" alt="Typing SVG" />
   </a>
 </div>
 
