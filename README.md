@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:004e92,50:000428,100:004e92&height=220&section=header&text=Alexandre%20Camargo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20de%20Software%20%7C%20Estudante%20de%20ADS&descFontSize=20&descAlignY=60" width="100%"/>
+  <img src="assets/banner.png" width="100%" alt="Alexandre Camargo - Software Developer"/>
+
+  <br><br>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenv.+de+Sistemas;Desenvolvedor+.NET+%7C+C%23+%7C+Python+%7C+React;Focado+em+evolu%C3%A7%C3%A3o+constante+e+boas+pr%C3%A1ticas;Criando+solu%C3%A7%C3%B5es+modernas+e+de+impacto" alt="Typing SVG" />
@@ -84,10 +86,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alexandre.camargo1002@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:004e92,50:000428,100:004e92&height=100&section=footer" width="100%"/>
 </div>
