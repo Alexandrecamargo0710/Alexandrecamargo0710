@@ -67,8 +67,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonado po
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Alexandrecamargo0710&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D2FF&icon_color=00D2FF" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrecamargo0710&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Alexandrecamargo0710&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D2FF&icon_color=00D2FF" />
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Alexandrecamargo0710&layout=compact&theme=tokyonight&hide_border=true&title_color=00D2FF" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
